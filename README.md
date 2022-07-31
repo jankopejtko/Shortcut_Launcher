@@ -1,2 +1,2 @@
 # Shortcut_Launcher
-Python program that will start all .Ink programs in directory
+Python program that will start all .Ink programs in directory on Windows
